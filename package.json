@@ -12,7 +12,7 @@
   },
   "dependencies": {
 
-    "next": "^14.0.0",      // ajuste selon ta version
+    "next": "^14.0.0",      
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@hookform/resolvers": "^3.9.0",
@@ -86,7 +86,7 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.19",
-    "prisma": "^5.0.0",              // ou ta version actuelle
+    "prisma": "^5.0.0",              
     "@prisma/client": "^5.0.0"
   }
 }
