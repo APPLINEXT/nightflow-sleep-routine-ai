@@ -11,6 +11,10 @@
     "vercel-build":"next build"
   },
   "dependencies": {
+
+    "next": "^14.0.0",      // ajuste selon ta version
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
@@ -81,6 +85,8 @@
     "tailwindcss": "^3.4.17",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.19"
+    "vite": "^5.4.19",
+    "prisma": "^5.0.0",              // ou ta version actuelle
+    "@prisma/client": "^5.0.0"
   }
 }
